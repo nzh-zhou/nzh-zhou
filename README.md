@@ -13,3 +13,4 @@ asap once I become more familiar with GitHub:
 -   I’m an otaku
     -   My best girl is Mai-san
 -   I wear an apron while cooking
+-   I have two pet turtles
